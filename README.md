@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 mahanij/mahanij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahanij&repo=prime_explorer_python)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahnij)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahanij)](https://github.com/anuraghazra/github-readme-stats)
