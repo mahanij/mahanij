@@ -11,3 +11,7 @@ mahanij/mahanij is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahanij&repo=simple_calculator_C)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahanij&repo=decomposer_python)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahanij&repo=prime_explorer_python)](https://github.com/anuraghazra/github-readme-stats)
